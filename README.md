@@ -6,7 +6,6 @@
   <!--ts-->
   * [Description](#description)
   * [Usage](#Usage)
-  * [Installation](#installation)
   * [Instructions](#instructions)
   * [License](#license)
   * [Contributions](#contribution)
